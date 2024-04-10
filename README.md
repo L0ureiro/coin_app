@@ -1,6 +1,9 @@
 # coin_app
 
-A new Flutter project.
+Projeto para praticar o consumo de APIs.
+
+# To-Do
+- As duas ultimas telas.
 
 ## Getting Started
 
