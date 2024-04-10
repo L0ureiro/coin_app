@@ -1,6 +1,6 @@
 # coin_app
 
-Projeto para praticar o consumo de APIs.
+Projeto para praticar o consumo de APIs. Atualizar o código com a chave da API para testar.
 
 # To-Do
 - As duas ultimas telas.
