@@ -5,7 +5,7 @@ import 'dart:convert';
 
 class RepositorioIndices {
   Future<List<IndiceBolsa>> fetchIndices() async {
-    final response = await http.get(Uri.parse('http://api.hgbrasil.com/finance?fields=only_results,stocks&key=b7c3167e'));
+    final response = await http.get(Uri.parse('http://api.hgbrasil.com/finance?fields=only_results,stocks&key=AAAAAAAA'));
 
     if (response.statusCode == 200) {
       final Map<String, dynamic> result = json.decode(response.body);
